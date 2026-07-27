@@ -128,31 +128,31 @@ The following screenshots capture StitchHub in action on the live deployed platf
 *Figure 1: Hero section with navigation bar, user portal switcher, search controls, and call-to-action buttons.*
 
 ### 2. Seamless 5-Step Process Workflow
-![How StitchHub Delivers Perfect Fit 5-Step Workflow](src\screenshots\image3.png)
+![How StitchHub Delivers Perfect Fit 5-Step Workflow](src/screenshots/image3.png)
 *Figure 2: The 5-step end-to-end bespoke tailoring process — from picking a tailor and submitting measurements to doorstep courier pickup, atelier stitching, and final delivery.*
 
 ### 3. Stitchy AI Fashion & Tailoring Guide (Powered by Google Gemini)
-![Meet Stitchy AI Assistant Showcase](src\screenshots\image1.png)
+![Meet Stitchy AI Assistant Showcase](src/screenshots/image1.png)
 *Figure 3: Real-time Gemini AI interaction banner demonstrating instant fabric recommendations and fitting advice.*
 
 
 ### 4. Customer Portal & Digital Measurement Vault
-![Customer Portal & Measurement Vault](src\screenshots\image5.png)
+![Customer Portal & Measurement Vault](src/screenshots/image5.png)
 
 *Figure 4: Customer dashboard featuring saved body measurement profiles (chest, waist, shoulder, inseam), active 7-stage order status trackers, and booking history.*
 
 ### 5. Master Tailor Atelier Workspace
-![Master Tailor Atelier Workspace](src\screenshots\image6.png) 
-![browse tailor](src\screenshots\image9.png)
+![Master Tailor Atelier Workspace](src/screenshots/image6.png) 
+![browse tailor](src/screenshots/image9.png)
 *Figure 5: Master Tailor studio dashboard to inspect incoming customer measurement sheets, update order stitching stages (Cutting, Quality Check, Ready for Pickup), and manage portfolio galleries.*
 
 ### 6. Courier Logistics & Doorstep Dispatch Terminal
-![Courier Logistics Dispatch Terminal](src\screenshots\image7.png)
-![browse courier](src\screenshots\image10.png)
+![Courier Logistics Dispatch Terminal](src/screenshots/image7.png)
+![browse courier](src/screenshots/image10.png)
 *Figure 6: Courier partner terminal displaying doorstep fabric pickup requests, route coverage zones, tamper-proof package confirmations, and delivery status updates.*
 
 ### 7. Admin Governance & Platform Revenue Dashboard
-![Admin Governance & Revenue Dashboard](src\screenshots\image8.png)
+![Admin Governance & Revenue Dashboard](src/screenshots/image8.png)
 *Figure 7: Executive administrative dashboard tracking platform Gross Merchandise Value (GMV), total active orders, commission earnings, and artisan verification logs.*
 ---
 
