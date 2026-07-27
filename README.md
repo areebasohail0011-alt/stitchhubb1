@@ -124,7 +124,7 @@ The following screenshots capture StitchHub in action on the live deployed platf
 
 ### 1. Landing Page & Hero Header Navigation
 
-![StitchHub Landing Page & Hero Header](src\screenshots\image4.png)
+![StitchHub Landing Page & Hero Header](src/screenshots/image4.png)
 *Figure 1: Hero section with navigation bar, user portal switcher, search controls, and call-to-action buttons.*
 
 ### 2. Seamless 5-Step Process Workflow
